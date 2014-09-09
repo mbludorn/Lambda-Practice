@@ -1,0 +1,5 @@
+C:\Users\Technologist\Documents\GitHub\Lambda-Practice\Lambda Practice\Lambda Practice\bin\Debug\Lambda Practice.exe.config
+C:\Users\Technologist\Documents\GitHub\Lambda-Practice\Lambda Practice\Lambda Practice\bin\Debug\Lambda Practice.exe
+C:\Users\Technologist\Documents\GitHub\Lambda-Practice\Lambda Practice\Lambda Practice\bin\Debug\Lambda Practice.pdb
+C:\Users\Technologist\Documents\GitHub\Lambda-Practice\Lambda Practice\Lambda Practice\obj\Debug\Lambda Practice.exe
+C:\Users\Technologist\Documents\GitHub\Lambda-Practice\Lambda Practice\Lambda Practice\obj\Debug\Lambda Practice.pdb
