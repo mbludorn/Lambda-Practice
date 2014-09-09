@@ -1,1 +1,2 @@
 C:\Users\Technologist\Documents\GitHub\Lambda-Practice\Lambda Practice\Lanmbda Practice\Lanmbda Practice\bin\Debug\Lanmbda Practice.exe.config
+C:\Users\Technologist\Documents\GitHub\Lambda-Practice\Lambda Practice\Lanmbda Practice\Lanmbda Practice\obj\Debug\Lanmbda Practice.csprojResolveAssemblyReference.cache
