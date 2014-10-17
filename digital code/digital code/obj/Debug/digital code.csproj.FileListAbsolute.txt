@@ -1,0 +1,2 @@
+C:\Users\Technologist\Documents\GitHub\Lambda-Practice\digital code\digital code\bin\Debug\digital code.exe.config
+C:\Users\Technologist\Documents\GitHub\Lambda-Practice\digital code\digital code\obj\Debug\digital code.csprojResolveAssemblyReference.cache
